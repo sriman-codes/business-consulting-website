@@ -20,8 +20,9 @@ A responsive business consulting website built using **HTML**, **CSS**, and **Bo
 
 
 ## 🌐 Live Demo
-[(Add GitHub Pages link here)](https://sriman-codes.github.io/business-consulting-website/)
+https://sriman-codes.github.io/business-consulting-website/
 
 ## 👨‍💻 Author
 **Sriman R**  
 https://github.com/sriman-codes
+
